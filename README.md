@@ -1,6 +1,6 @@
 # 🤖 CTF Agent — Automated Capture The Flag Solver
 
-An LLM-powered agent that autonomously solves CTF (Capture The Flag) challenges using GPT-4o. The agent reasons through each challenge step by step, executes shell commands, and extracts flags — without ever directly reading protected files.
+An LLM-powered agent that autonomously solves CTF (Capture The Flag) challenges using GPT-4o. The agent reasons through each challenge step by step, executes shell commands, and extracts flags — without ever directly reading protected files. This agent can be improved for other specific vulnerabilities and can be updated for better accuracy. 
 
 ---
 
